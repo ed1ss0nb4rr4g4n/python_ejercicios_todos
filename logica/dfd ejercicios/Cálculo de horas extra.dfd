@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+'Digite el numero de horas trabajadas: '
+5
+1
+15
+horasTrabajadas
+6
+1
+4
+hora
+4
+6000
+7
+0
+1
+18
+horasTrabajadas>40
+6
+1
+6
+valor2
+20
+horasTrabajadas*hora
+4
+1
+30
+'El pago total es de: ',valor2
+13
+6
+1
+6
+valor1
+24
+(horasTrabajadas*hora)*2
+4
+1
+30
+'El pago total es de: ',valor1
+13
+1

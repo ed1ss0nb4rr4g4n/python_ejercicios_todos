@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+'Digite la longitud de 3 lados de un triangulo'
+5
+1
+2
+l1
+5
+1
+2
+l2
+5
+1
+2
+l3
+7
+0
+1
+34
+l1+l2>l3 and l2+l3>l1 and l3+l1>l2
+4
+1
+33
+'No se puede formar un triangulo'
+13
+7
+0
+1
+16
+l1= l2 and l2=l3
+7
+0
+1
+23
+l1=l2 or l2=l3 or l3=l1
+4
+1
+13
+'Es escaleno'
+13
+4
+1
+13
+'Es isoseles'
+13
+13
+4
+1
+15
+'Es equilatero'
+13
+13
+1

@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+43
+'Digite la temperatura en grados celcius: '
+5
+1
+4
+num1
+6
+1
+4
+num2
+13
+(num1*9/5)+32
+4
+1
+29
+'En grados Fahrenheit: ',num2
+1

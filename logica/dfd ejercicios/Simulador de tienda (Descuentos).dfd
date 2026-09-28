@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Digite el valor de la compra: '
+5
+1
+4
+num1
+7
+0
+1
+11
+num1>100000
+4
+1
+33
+'Valor final de la compra: ',num1
+13
+6
+2
+4
+num2
+9
+num1*0.20
+4
+num3
+9
+num1-num2
+4
+1
+33
+'Valor final de la compra: ',num3
+13
+1

@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'Digitar la distancia en kilometros: '
+5
+1
+9
+distancia
+4
+1
+45
+'Digite el precio del galon de combustible: '
+5
+1
+5
+galon
+4
+1
+47
+'Cuántos kilómetros rinde el coche por galón: '
+5
+1
+11
+rendimiento
+6
+2
+7
+galones
+21
+distancia/rendimiento
+5
+costo
+13
+galones*galon
+4
+1
+38
+'El costo total del viaje es: ', costo
+1

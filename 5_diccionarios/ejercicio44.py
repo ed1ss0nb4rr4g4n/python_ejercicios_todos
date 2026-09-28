@@ -6,7 +6,7 @@ contador=0
 
 for palabra in lista1:
     if palabra not in diccionario:
-        diccionario.update({[palabra]})
+        diccionario.update({palabra:contador})
 
 for palabra in diccionario:
     contador=0

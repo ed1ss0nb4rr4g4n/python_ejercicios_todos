@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'Digitar el primer numero: '
+5
+1
+4
+num1
+4
+1
+29
+'Digitar el segundo numero: '
+5
+1
+4
+num2
+6
+3
+4
+suma
+9
+num1+num2
+5
+resta
+9
+num1-num2
+14
+multiplicacion
+9
+num1*num2
+7
+1
+1
+6
+num2=0
+4
+1
+19
+'La suma es: ',suma
+4
+1
+21
+'La resta es: ',resta
+4
+1
+39
+'La multiplicacion es: ',multiplicacion
+13
+6
+1
+8
+division
+9
+num1/num2
+4
+1
+19
+'La suma es: ',suma
+4
+1
+21
+'La resta es: ',resta
+4
+1
+39
+'La multiplicacion es: ',multiplicacion
+4
+1
+27
+'La division es: ',division
+13
+1
